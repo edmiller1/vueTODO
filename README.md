@@ -1,6 +1,13 @@
 # vueTODO
 A TODO application created with VueJS and Vuetify
 
+![alt text](https://github.com/edmiller1/wave-react-player/blob/main/waves.png?raw=true)
+
+# Built with:
+  * [VueJS](https://vuejs.org/)
+  * [Vuetify](https://vuetifyjs.com/en/)
+  * [Firebase](https://firebase.google.com/)
+
 ## Project setup
 ```
 npm install
