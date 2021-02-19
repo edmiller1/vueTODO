@@ -1,7 +1,7 @@
 # vueTODO
 A TODO application created with VueJS and Vuetify
 
-![alt text](https://github.com/edmiller1/wave-react-player/blob/main/waves.png?raw=true)
+![alt text](https://github.com/edmiller1/vueTODO/blob/master/vueTODO.png?raw=true)
 
 # Built with:
   * [VueJS](https://vuejs.org/)
